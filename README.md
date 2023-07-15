@@ -8,7 +8,7 @@ Eae! Rai aqui 🤙
 [![Rai GitHub stats](https://github-readme-stats.vercel.app/api?username=Raimcn&theme=radical)](https://github.com/Raimcn/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raimcn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Tecnologias que utilizo
 <div style="display: inline_block"><br/>
