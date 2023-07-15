@@ -12,7 +12,7 @@ Eae! Rai aqui 🤙
 
 Tecnologias que utilizo
 <div style="display: inline_block"><br/>
-<img align="center" alt=html5 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white%22/%3E>
-<img align="center" alt=css src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white%22/%3E>
+<img align="center" alt=html5 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white%22/%3E">
+<img align="center" alt=css src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white%22/%3E">
 </div><br/>
 Sou graduado em Marketing, atualmente moro em Portugal e já tem um tempo que busco expandir meus conhecimentos e a área de TI tem sido uma paixão desde então. Tenho como objetivo me desenvolver na área e espero que goste dos projetos que você irá ver por aqui!!
